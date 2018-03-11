@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-11T15:19:39.275Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/11/hello-world/"/>
+    <id>http://yoursite.com/2018/03/11/hello-world/</id>
+    <published>2018-03-11T15:19:39.275Z</published>
+    <updated>2018-03-11T15:19:39.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>应用</title>
+    <link href="http://yoursite.com/2017/08/02/%E5%BA%94%E7%94%A8/"/>
+    <id>http://yoursite.com/2017/08/02/应用/</id>
+    <published>2017-08-01T16:00:00.000Z</published>
+    <updated>2017-08-07T08:19:13.079Z</updated>
+    
+    <content type="html"><![CDATA[<center>简介：将自己用的软件作了一个整理，便于以后寻找，也分享给身边的朋友。 </center><a id="more"></a><h2 id="android"><a href="#android" class="headerlink" title="android"></a>android</h2><h3 id="Google全家桶"><a href="#Google全家桶" class="headerlink" title="Google全家桶"></a>Google全家桶</h3><ul><li>Google play<br>点评：Google大法好。需要google服务框架和google服务的支持，play商店是面向全球的，所以集成了各个地方的优秀软件，当然你要下载美国区的软件，需要把你的系统语言改为英文。然后清除google商店和google服务的缓存。最重要的是你要能fq（翻墙）</li><li><p>Gmail<br>点评：Gmail可以说是在世界范围内都数一数二的优秀邮件服务，非常好用。</p></li><li><p>Chrome<br>点评：干净，简洁，安安静静做个浏览器。最重要的是一个账号实现跨设备书签同步，爽歪歪。</p></li><li>Google翻译<br>点评：准确的翻译算法，简洁的界面</li><li>Snapseed<br>点评：照片美化的神兵利器，又叫：指尖修图。好东西<h3 id="日常"><a href="#日常" class="headerlink" title="日常"></a>日常</h3></li><li>支付宝<br>点评：支付宝是干啥的就不用细说了吧，在手机上享受电脑上支付宝的一切功能，推荐给购物达人</li><li>网易云音乐<br>点评：歌曲评论永远要比歌曲本身要有意思，还有每天会根据你的口味推送。离不开。</li><li>印象笔记<br>点评：Evernote印象笔记可是先目前全球最出名的云笔记工具了，能够进行在线存储非常的不错，算是基于云的运用吧，另外支持的文件类型也很多，很不错。</li><li>酷安<br>点评：世界上最大的同性交友app。</li><li>牛客<br>点评：牛客网是IT求职神器,提供海量C++、JAVA、前端等职业笔试题库,在线进行百度阿里腾讯网易等互联网名企笔试面试模拟考试练习。</li><li>微信 &amp; Tim<br>点评：中国人都在用的社交app，虽然臃肿，离不开。</li><li>WiFi万能钥匙<br>点评：蹭网必备，暂时没有别的软件可以替代。</li><li>WPS<br>点评：国产的办公强软，常见的word文档、excel文档、ppt文档都能正常浏览编辑，功能实用，操作简单，手机办公的利器。</li><li>Pixlr<br>点评：Autodesk做为PC上的专业软件大佬，Android上的应用可以说也是大获成功，每一款都可谓精品，Pixlr Express是做图片处理的，应该说也算是autodesk的拿手戏，东东确实很不错的，大厂就是不一样</li><li>Emore<br>点评，我认为是最好的微博第三方客户端，去掉了多余的功能，还添加了微博视频的下载，关键是小巧（4M大小）</li><li>Github<br>点评：版本控制与代码托管，不用多讲，搞开发的应该都知道吧。</li><li>Instagram<br>点评：照片分享网站，很出名的。访问需要翻墙。<h3 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h3></li><li>黑狱 &amp; 冰箱<br>点评： 控制应用后台运行的神兵利器，对于一些特别能唤醒并耗电的应用可以用上这个。</li><li>Supersu<br>点评：卡刷zip包，实现手机科学root，深度玩机必备。</li><li>re管理器<br>点评：android最强大的文件管理器，可以查看根目录文件（前提是手机已经root）</li><li>Go Hosts<br>点评：通过更新系统hosts文件，实现科学上网。作者更新很快，推荐使用。</li></ul><p><em>注意：以上所有的软件除了Google全家桶都可以在酷安下载，Google全家桶可以去百度下载，</em></p><p>## </p><h2 id="windows"><a href="#windows" class="headerlink" title="windows"></a>windows</h2><h3 id="办公"><a href="#办公" class="headerlink" title="办公"></a>办公</h3><ul><li>Microsoft office  ：办公必备，就不哆嗦了。</li><li>Xmind  ：xmind是最流行的思维导图软件之一，另一款流行的是MindManager。模板齐全，功能强大。</li><li>Wordmark： 写markdown文件必备，支持预览，文本发布（github，印象笔记等），同样支持图片存储到图床。</li><li>Sumlime_text：python开发的神奇文本编辑器，有丰富的插件，可作为成各种语言开发的IDE。<h3 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h3></li><li>Pycharm ：最流行的python开发IDE.</li><li>Devcpp：一款用于开发c,c++的轻巧IDE</li><li>VMware:一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案</li><li>Chrome：用户量将近60%的浏览器软件，一直处于pc浏览器霸主地位的家伙。其他角色都望尘莫及。<h3 id="日常-1"><a href="#日常-1" class="headerlink" title="日常"></a>日常</h3></li><li>Tim &amp; UWP版QQ：高效，轻巧版QQ。</li><li>网易云音乐：离不开，一款因为社交元素火起来的音乐软件，评论很有故事性。另外，每天会根据你的口味推送歌曲。</li><li>射手影音：小巧，仅仅只有8,9M，几乎支持所有的视频格式。</li><li>百度云：你懂得。<h3 id="黑科技"><a href="#黑科技" class="headerlink" title="黑科技"></a>黑科技</h3></li><li>SSR：fq黑科技。不懂的自己Google，要自己搭建服务器或者买账号，如果你能接受蜗牛般的速度，你可以去网上找一些免费的账号。</li><li>Clover：让你的文件管理像浏览器标签一样浏览，方便，快捷。</li><li>Potoshop：谁在不知道这个我就要打人了</li><li>印象笔记：实现文件的跨平台存储，走到哪里都可以编辑文件。</li><li>迅雷极速版：绿色不限速版迅雷，期待能一直用下去。</li><li>黑科云：播放磁力链接的神器，低调使用</li></ul><p><em>注意：建议到官网下载以上软件，大部分都是免费的，收费的的便宜一点的可以直接购买，太贵了可以去淘宝买注册码。</em><br><br><br><br><br>​<br>​<br><strong>本文为原创，版权归作者所有。 </strong></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;简介：将自己用的软件作了一个整理，便于以后寻找，也分享给身边的朋友。 &lt;/center&gt;
+    
+    </summary>
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+</feed>
